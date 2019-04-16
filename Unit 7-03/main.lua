@@ -3,7 +3,7 @@
 -- Created by: Aden Rao
 -- Created on: April 16, 2019
 --
--- This program lets you click a d-pad either right, left, up or down and lets you move the character.
+-- This program lets you click a d-pad either right, left, up or down and lets you move the character and the game has physics involved so there is some gravity and it makes the characters movements more natural.
 --
 -----------------------------------------------------------------------------------------
 
